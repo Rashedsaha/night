@@ -1,0 +1,7 @@
+h1 span{
+    color: #262626;
+    background: #fff;
+    padding: 10px 20px;
+    font-family: arial;
+    display: table-cell;
+}
